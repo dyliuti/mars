@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\project\mars\lib2\example\build2\CMakeFiles\1f8e2cf734bdd08825af847ade8e167c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{14884145-FDE9-39D6-A4BB-374CDE38C481}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

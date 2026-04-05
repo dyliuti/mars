@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\project\mars\lib2\mars\xlog\src\appender.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\xlog\src\formater.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\xlog\src\log_base_buffer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\xlog\src\log_zlib_buffer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\xlog\src\log_zstd_buffer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\xlog\src\xlogger_interface.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\xlog\crypt\log_crypt.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\xlog\crypt\micro-ecc-master\uECC.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\assert\__assert.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\adler32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\autobuffer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\mmap_util.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\ptrbuffer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\strutil.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\tickcount.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\time_utils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\xlogger\xloggerbase.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\xlogger\xlogger.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\xlogger\xlogger_category.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\xlogger\loginfo_extract.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\projdef.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\unistd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\thread\thread-interupte.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\xlogger_threadinfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\sys\time.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\xlog\unix\ConsoleLog.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\zlib\compress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\zlib\crc32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\zlib\deflate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\zlib\gzclose.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\zlib\gzlib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\zlib\gzread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\zlib\gzwrite.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\zlib\infback.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\zlib\inffast.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\zlib\inflate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\zlib\inftrees.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\zlib\trees.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\zlib\uncompr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\comm\windows\zlib\zutil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\common\debug.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\common\entropy_common.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\common\error_private.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\common\fse_decompress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\common\pool.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\common\threading.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\common\xxhash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\common\zstd_common.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\compress\fse_compress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\compress\hist.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\compress\huf_compress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\compress\zstd_compress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\compress\zstd_compress_literals.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\compress\zstd_compress_sequences.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\compress\zstd_double_fast.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\compress\zstd_fast.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\compress\zstd_lazy.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\compress\zstd_ldm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\compress\zstd_opt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\compress\zstdmt_compress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\decompress\huf_decompress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\decompress\zstd_ddict.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\decompress\zstd_decompress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\zstd\lib\decompress\zstd_decompress_block.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\boost\throw_exception.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\boost\libs\filesystem\src\codecvt_error_category.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\boost\libs\filesystem\src\operations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\boost\libs\filesystem\src\path.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\boost\libs\filesystem\src\path_traits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\boost\libs\filesystem\src\portability.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\boost\libs\filesystem\src\utf8_codecvt_facet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\boost\libs\filesystem\src\windows_file_codecvt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\boost\libs\iostreams\src\mapped_file.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\project\mars\lib2\mars\boost\libs\system\src\error_code.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\project\mars\lib2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CF2CBF13-6103-3943-9DA9-AC46B835091E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
